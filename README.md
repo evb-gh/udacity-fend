@@ -9,3 +9,12 @@ This project is part of the Udacity's Front-End Web Developer Nanodegree Program
 [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
 # TO-DO
+- [x] Create project github repo.
+- [x] Add README file.
+- [x] Come up with a simple site layout.
+- [x] Create index page.
+- [x] Use comments to plan content and structure.
+- [ ] Build.
+- [ ] More planing.
+- [ ] Build.
+- [ ] ...
