@@ -14,9 +14,6 @@ This project is part of the Udacity's Front-End Web Developer Nanodegree Program
 - [x] Come up with a simple site layout.
 - [x] Create index page.
 - [x] Use comments to plan content and structure.
-- [ ] Add HTML elements first.
-- [ ] Begin styling with css.
-- [ ] Build.
-- [ ] More planing.
-- [ ] Build.
-- [ ] ...
+- [ ] Select font for site text.
+- [ ] Add query for header text.
+- [ ] Center feat class text.
