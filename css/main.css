@@ -14,7 +14,12 @@ header {
   display: flex;
   flex-wrap: wrap;
 }
-
+.feat {
+  width: 100%;
+}
+/* .img1, .img2, .img3 {
+  width: 300px;
+} */
 @media screen and (min-width: 768px;) {
   .img1, .img2, .img3 {
     width: 33%;
