@@ -24,3 +24,4 @@ This project is part of the Udacity's Front-End Web Developer Nanodegree Program
 - [ ] Add query for header text.
 - [ ] Center feat class text.
 - [ ] Optimize images.
+- [ ] Credit images.
